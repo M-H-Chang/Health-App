@@ -1,0 +1,6 @@
+Beginning page will ask about yourself
+  - Name: Textbox
+  - Gender: Dropdown
+  - Height: TextBox/refactor later
+  - Weight: TextBox
+  - Goal: Lose/Gain Weight refactor later
